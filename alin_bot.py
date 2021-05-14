@@ -1,5 +1,3 @@
-## Antes de começar, executar no Shell: 
-## pip install python-telegram-bot
 import Bio
 from Bio import SeqIO
 from Bio import pairwise2
